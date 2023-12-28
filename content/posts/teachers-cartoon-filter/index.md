@@ -1,7 +1,7 @@
 ---
 title: "선생님 만화 필터"
 summary: "염경중학교 선생님들의 만화 필터 사진"
-categories: ["기획 기사"]
+categories: ["기획 기사", "1학기"]
 date: 2023-08-29
 tags:
   - 기획 기사

@@ -1,7 +1,7 @@
 ---
 title: "공포 영화 추천"
 summary: "무더운 여름을 날려줄 공포 영화"
-categories: ["기획 기사"]
+categories: ["기획 기사", "1학기"]
 date: 2023-08-29
 tags:
   - 기획 기사

@@ -1,7 +1,7 @@
 ---
 title: "영어 캠프"
 summary: "2023.06.02 영어 캠프"
-categories: ["학교 행사"]
+categories: ["학교 행사", "1학기"]
 date: 2023-08-29
 tags:
   - 영어 캠프

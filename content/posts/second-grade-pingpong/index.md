@@ -1,7 +1,7 @@
 ---
 title: "2학년 탁구"
 summary: "2학년 탁구 반대항전."
-categories: ["Y-리그"]
+categories: ["Y-리그", "1학기"]
 date: 2023-08-26
 tags:
   - Y-리그

@@ -1,7 +1,7 @@
 ---
 title: "1학년 배드민턴 최강자"
 summary: "1학년 배드민턴 최강자 이승리 학생을 만나보았다."
-categories: ["Y-리그"]
+categories: ["Y-리그", "1학기"]
 date: 2023-08-29
 tags:
   - Y리그
